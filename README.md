@@ -10,7 +10,7 @@
    2. Missing data not at Random (MNAR):(Systematic missing value)
       There is absolute some relationship between the data missing and any other values, observed or missing, within the dataset. example : Age and cabin
       
-    3.Missing At Random(MAR): 
+   3.Missing At Random(MAR): 
      When the people delibrately hide or not want to answer a specific question. for example :-      Men--- hide their salary, Women --- hide their age
   
  ## So we are going to use some techniques to handle missing values 
